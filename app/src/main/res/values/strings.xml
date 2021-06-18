@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="off">Lights Off</string>
+    <string name="turn_on">Lights On</string>
+    <string name="lights_off">Lights Off</string>
+</resources>
